@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ID>20220531</ID>
+<Summary>При нажатии на кнопку регистрации не открывается форма регистрации</Summary>
+<Project>Интернет-магазин косметики</Project>
+<Component>Регистрация</Component>
+<Version>V15.12</Version>
+<Severity>S3</Severity>
+<Priority>P1</Priority>
+<Status>Новый</Status>
+<Author>Malevich Elena</Author>
+<Assigned_To>Petrov Petr</Assigned_To>
+<Description>При нажатии на кнопку регистрации не открывается форма регистрации</Description>
