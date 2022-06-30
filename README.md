@@ -1,2 +1,2 @@
 # XML
-This repository is created for practicing GIT commands
+This repository was created for practicing GIT commands
